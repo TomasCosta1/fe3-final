@@ -1,5 +1,5 @@
-# DentalDex ![logo](https://github.com/TomasCosta1/fe3-final/assets/99984212/6456adb0-c76b-4355-8bfd-0ae5e3e4e2be)
-
+![logo](https://github.com/TomasCosta1/fe3-final/assets/99984212/6456adb0-c76b-4355-8bfd-0ae5e3e4e2be)
+# DentalDex 
 DentalDex es una aplicación web que te permite acceder a un directorio completo de dentistas. Puedes encontrar información sobre cada dentista, incluyendo su nombre, usuario y numero de matricula. La aplicación también te permite guardar dentistas como favoritos.
 
 ## Características
