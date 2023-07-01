@@ -7,7 +7,7 @@ DentalDex es una aplicación web que te permite acceder a un directorio completo
 - Tema claro y oscuro: Puedes cambiar entre un tema claro y oscuro para personalizar la apariencia de la aplicación.
 - Favoritos: Puedes marcar dentistas como favoritos y acceder a ellos fácilmente en la sección de favoritos.
 - Formulario de contacto: La aplicación cuenta con un formulario de contacto para que los usuarios puedan comunicarse con la empresa.
-- 
+  
 ## Tecnologías utilizadas
 - React: Utilizamos React como el framework de desarrollo principal para construir la interfaz de usuario de la aplicación.
 - React Router: Utilizamos React Router para gestionar las rutas y la navegación en la aplicación.
