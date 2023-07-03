@@ -326,7 +326,9 @@ input {
 .logoDigital{
   max-width: 200px;
   -webkit-filter: drop-shadow(0px 0px 1px white)
-  drop-shadow(0px 0px 0px white);
+                  drop-shadow(0px 0px 0px white);
+  filter: drop-shadow(1px 1px 0 white) 
+          drop-shadow(-1px -1px 0 white);
 }
 
 /* dark mode */
